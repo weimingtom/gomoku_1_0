@@ -1,7 +1,7 @@
 gomoku_1_0
 ==========
 
-gomoku v1.0, my second game, using Cocos2d-x  
+gomoku v1.0, my second android game, using Cocos2d-x  
 Note: my Cocos2d-x is too old, so I'm not sure it is able to be compiled well now :)  
 
 References:  
