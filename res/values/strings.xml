@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">五子棋争胜</string>
+    
+    <string name="version_number">1.0</string>
+    <string name="mail_address">weimingtom@qq.com</string>    
+    <string name="about_message">
+	五子棋争胜\n
+	版本：1.0\n
+\n
+一、游戏规则：\n
+    棋子分为黑白两色，棋盘为15×15，棋子放置于棋盘线交叉点上。\n
+    两人对局，各执一色，轮流下一子，先将横、竖或斜线的5个或5个以上同色棋子连成不间断的一排者为胜。\n
+\n
+    在游戏界面中，既可以通过方向按钮选择下棋位置，也可以直接在棋盘上选择下棋位置。\n
+\n
+二、目前的问题：\n
+1.AI的难度不高。\n
+2.暂不记录历史最佳成绩。\n
+\n
+三、更新日志：\n
+v1.0：首次上传。\n
+\n
+四、鸣谢和引用资源：\n
+1.Five_SDL\n
+  https://github.com/tjumyk/Five_SDL\n
+2.百度百科，五子棋\n
+  http://baike.baidu.cn/view/2697.htm\n
+\n
+\n
+五、联系方式：\n
+Author：weimingtom\n
+Blog：http://weimingtom.iteye.com/\n
+Email：weimingtom@qq.com\n
+	</string>
+</resources>

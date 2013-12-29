@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.2016714110/NDK_MODULE_PATH/delimiter=;
+environment/project/com.android.toolchain.gcc.2016714110/NDK_MODULE_PATH/operation=append
+environment/project/com.android.toolchain.gcc.2016714110/NDK_MODULE_PATH/value=C\:/cygwin/home/Administrator/cocos2d-2.1beta3-x-2.1.1;C\:/cygwin/home/Administrator/cocos2d-2.1beta3-x-2.1.1/cocos2dx/platform/third_party/android/prebuilt
+environment/project/com.android.toolchain.gcc.2016714110/PATH/delimiter=;
+environment/project/com.android.toolchain.gcc.2016714110/PATH/operation=replace
+environment/project/com.android.toolchain.gcc.2016714110/PATH/value=
+environment/project/com.android.toolchain.gcc.2016714110/append=true
+environment/project/com.android.toolchain.gcc.2016714110/appendContributed=true
